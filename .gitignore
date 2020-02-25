@@ -72,3 +72,9 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+#Content Packs
+ModSci_Engineer/*
+ModSci_EngiProps/*
+ModSciInteriors/*
+StarterContent/*
